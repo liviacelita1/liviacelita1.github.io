@@ -1,5 +1,3 @@
-# liviacelita1.github.io
-Portfólio para Análise de Dados e Business Intelligence
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -15,6 +13,11 @@ Portfólio para Análise de Dados e Business Intelligence
     <main>
         <section>
             <h2>Sobre Mim</h2>
+            <div class="profile-pictures">
+                <img src="foto1.jpg" alt="Foto 1">
+                <img src="foto2.jpg" alt="Foto 2">
+                <img src="foto3.jpg" alt="Foto 3">
+            </div>
             <p>Sou um analista de BI com experiência em...</p>
         </section>
         <section>
@@ -22,6 +25,14 @@ Portfólio para Análise de Dados e Business Intelligence
             <ul>
                 <li><a href="link_para_projeto_1">Projeto 1</a></li>
                 <li><a href="link_para_projeto_2">Projeto 2</a></li>
+                <li><a href="link_para_projeto_3">Projeto 3</a></li>
+                <li><a href="link_para_projeto_4">Projeto 4</a></li>
+                <li><a href="link_para_projeto_5">Projeto 5</a></li>
+                <li><a href="link_para_projeto_6">Projeto 6</a></li>
+                <li><a href="link_para_projeto_7">Projeto 7</a></li>
+                <li><a href="link_para_projeto_8">Projeto 8</a></li>
+                <li><a href="link_para_projeto_9">Projeto 9</a></li>
+                <li><a href="link_para_projeto_10">Projeto 10</a></li>
             </ul>
         </section>
     </main>
@@ -30,47 +41,4 @@ Portfólio para Análise de Dados e Business Intelligence
     </footer>
 </body>
 </html>
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
-
-header, footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-}
-
-main {
-    padding: 1em;
-}
-
-h1, h2 {
-    color: #333;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-ul li {
-    background-color: #fff;
-    margin: 0.5em 0;
-    padding: 0.5em;
-    border: 1px solid #ddd;
-}
-
-ul li a {
-    text-decoration: none;
-    color: #333;
-}
-
-ul li a:hover {
-    color: #007bff;
-}
 
