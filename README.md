@@ -18,7 +18,15 @@
                 <img src="foto2.jpg" alt="Foto 2">
                 <img src="foto3.jpg" alt="Foto 3">
             </div>
-            <p>Sou um analista de BI com experiência em...</p>
+            <p>Sou economista e analista de dados, sempre fui fascinada pela relação entre números e comportamento humano. Com formação pela Universidade Federal do Ceará (UFC), e com base sólida em SQL, Python, PowerBI e Excel, aprimorei minhas habilidades para transformar dados complexos em insights valiosos.
+
+Minhas habilidades em análise e visualização de dados ajudaram organizações a compreender melhor seus dados e a tomar decisões informadas. 
+
+O que me diferencia é minha capacidade de preencher a lacuna entre dados e narrativa. Acredito que os dados não são apenas números numa folha de cálculo, mas uma ferramenta poderosa que pode gerar mudanças e crescimento significativos.
+
+A minha paixão por storytelling permitiu-me comunicar dados complexos de forma clara e concisa, tornando-os acessíveis a todas as partes interessadas. Estou constantemente em busca de oportunidades para expandir meus conhecimentos e habilidades na área de análise de dados.
+
+Aprendo rápido e estou sempre disposta a enfrentar novos desafios e meu objetivo profissional é entregar o melhor resultado possível dentro do ambiente em que esteja,</p>
         </section>
         <section>
             <h2>Meus Projetos</h2>
